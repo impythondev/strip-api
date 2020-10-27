@@ -1,4 +1,4 @@
-cryptography==2.3.1
+cryptography==3.2
 dj-database-url==0.5.0
 Django==1.11
 django-appconf==1.0.2
